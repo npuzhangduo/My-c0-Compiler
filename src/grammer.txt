@@ -1,0 +1,6 @@
+the analysis of const part finished. 
+it is a expr.
+Line: 5it is a write statement.
+Line: 7it is a void function-defination statement
+Line:9it is a function call statement.
+it is a main function.

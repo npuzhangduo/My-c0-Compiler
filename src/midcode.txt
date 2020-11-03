@@ -1,0 +1,14 @@
+		int  ,      ,      , var1 
+		int  ,      ,      , var2 
+
+
+		func , void ,      , func1 
+		const, int  , 1, var1 
+		prtf ,      , 1, int   
+		ret  ,      ,      ,       
+		end  ,      ,      , func1 
+
+
+		func ,      ,      , main 
+		call , func1,      ,       
+		end  ,      ,      , main 

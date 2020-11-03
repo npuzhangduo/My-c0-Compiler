@@ -1,0 +1,21 @@
+int square(int x,int y,int h)
+{
+	int s;
+	s = (x + y)*h/2;
+	return (s);
+}
+/*
+test case:
+x = 1
+y = 2
+h = 4
+so the result should be 6
+*/
+void main()
+{
+	int x,y,h;
+	scanf(x);
+	scanf(y);
+	scanf(h);
+	printf(square(x,y,h));
+}
